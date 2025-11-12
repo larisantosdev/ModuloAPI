@@ -19,3 +19,6 @@ INSERT INTO Produtos (id, nome, cor, preco, quantidade, tamanho, genero) VALUES
 (5, 'Jaqueta de Couro', 'Marrom', 199.90, 20, 'XL', 'M');
 
 SELECT * FROM Produtos;
+SELECT nome, preco FROM Produtos WHERE cor = 'Preto';
+SELECT * FROM Produtos WHERE preco < 100.00;
+UPDATE Produtos SET quantidade = quantidade - 1 WHERE id = 1;
