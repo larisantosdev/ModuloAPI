@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "NSYlHeXy9ZH86wOzCN7XP6556xMMyXNHYUx2W8w3T/I=",
-  "Source": "ModuloAPI",
-  "BasePath": "_content/ModuloAPI",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"/dBiCK90FoYPwIYJ3Su4nIkTfzQ4/G8YbxAyyDS8oc0=","Source":"ModuloAPI","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

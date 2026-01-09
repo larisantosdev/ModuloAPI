@@ -20,11 +20,6 @@
 /workspaces/ModuloAPI/obj/Debug/net8.0/ModuloAPI.sourcelink.json
 /workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets.build.json
 /workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets.development.json
-/workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets/msbuild.ModuloAPI.Microsoft.AspNetCore.StaticWebAssets.props
-/workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ModuloAPI.props
-/workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ModuloAPI.props
-/workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ModuloAPI.props
-/workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets.pack.json
 /workspaces/ModuloAPI/obj/Debug/net8.0/scopedcss/bundle/ModuloAPI.styles.css
 /workspaces/ModuloAPI/obj/Debug/net8.0/ModuloAPI.csproj.Up2Date
 /workspaces/ModuloAPI/obj/Debug/net8.0/ModuloAPI.dll
@@ -32,3 +27,11 @@
 /workspaces/ModuloAPI/obj/Debug/net8.0/ModuloAPI.pdb
 /workspaces/ModuloAPI/obj/Debug/net8.0/ModuloAPI.genruntimeconfig.cache
 /workspaces/ModuloAPI/obj/Debug/net8.0/ref/ModuloAPI.dll
+/workspaces/ModuloAPI/bin/Debug/net8.0/ModuloAPI.staticwebassets.endpoints.json
+/workspaces/ModuloAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+/workspaces/ModuloAPI/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/workspaces/ModuloAPI/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/workspaces/ModuloAPI/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets.build.json.cache
+/workspaces/ModuloAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/workspaces/ModuloAPI/obj/Debug/net8.0/swae.build.ex.cache
